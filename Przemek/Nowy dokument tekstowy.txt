@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 To MA byæ PUSTE!!!
+=======
+linia bardziej kreska
+cwaniak
+przemek
+zbieracz
+kredek
+ale kiedys bylo kuuulwa
+>>>>>>> b8c0f6375293dfd8723c873297250c2541e5a776
