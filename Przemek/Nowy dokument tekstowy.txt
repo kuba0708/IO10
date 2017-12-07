@@ -1,6 +1,19 @@
+<<<<<<< HEAD
 linia
 tutaj wstawiam linie 2
 adrian
 dsf
 d
 fsdf
+=======
+<<<<<<< HEAD
+To MA byæ PUSTE!!!
+=======
+linia bardziej kreska
+cwaniak
+przemek
+zbieracz
+kredek
+ale kiedys bylo kuuulwa
+>>>>>>> b8c0f6375293dfd8723c873297250c2541e5a776
+>>>>>>> ecadc912f8e9ace875b64d5427f85b5edcaed5f4
